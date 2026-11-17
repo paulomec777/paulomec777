@@ -1,8 +1,8 @@
 # Paulo Henrique
 
-Desenvolvedor Java em Brasília. Trabalho com suporte e desenvolvimento na
-área de informática do Exército Brasileiro e curso o 5º semestre de Ciência
-da Computação no IESB.
+Desenvolvedor Java em Brasília. Desde 2022 desenvolvo sistemas internos no
+Exército Brasileiro com Java, Spring Boot e PostgreSQL, e curso o 5º semestre
+de Ciência da Computação no IESB.
 
 Programo para resolver problemas reais do meu trabalho: sistemas que
 organizam a rotina militar, como escala de serviço, presença e cantina.
@@ -24,17 +24,28 @@ possa aprender e evoluir.
   controle de vendas e reservas, login e perfil de administrador.
   JavaScript e Supabase.
 
+## Experiência
+
+- **Desenvolvedor Java**, Exército Brasileiro (ago. 2022 – atual): sistemas
+  web internos com Java, Spring Boot e PostgreSQL, APIs REST, modelagem de
+  dados e automação de processos administrativos. Também cuido de redes,
+  configuração de ambientes e suporte a usuários.
+- **Técnico de TI**, Exército Brasileiro (ago. 2021 – ago. 2022): suporte
+  técnico, instalação e manutenção de software e programação em Java e C.
+
 ## Tecnologias
 
-- **Back-end:** Java, Spring Boot, Spring Security, Spring Data JPA, Maven
-- **Banco de dados:** PostgreSQL
+- **Back-end:** Java, Spring Boot, Spring Security, Spring Data JPA, APIs REST, Maven
+- **Banco de dados:** PostgreSQL, SQL
 - **Front-end:** HTML, CSS, JavaScript, Thymeleaf, Bootstrap
-- **Ferramentas:** Git e GitHub
+- **Ferramentas:** Git, GitHub e Linux
+- **Também programo em:** C
 
 ## Formação
 
 - **Ciência da Computação**, IESB (campus Sul, Brasília): 5º semestre, em andamento
 - **Desenvolvedor Java**, Senai: 240 horas, concluído em dezembro de 2024
+- **Algoritmos e Lógica de Programação**, Udemy (Nelio Alves): 30,5 horas
 
 ## Contato
 
