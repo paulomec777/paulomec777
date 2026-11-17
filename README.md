@@ -16,10 +16,17 @@ possa aprender e evoluir.
   substitui as planilhas manuais de escala de serviço por um sistema web com
   login, perfis de acesso, cadastro de militares, feriados, afastamentos e
   troca de serviço. Java 21, Spring Boot, Spring Security, Thymeleaf e
-  PostgreSQL.
+  PostgreSQL. [Ver demonstração](https://escala-militar-demo.onrender.com)
+  (usuário `demo`, senha `demo`).
 - **[Status de Presença](https://github.com/paulomec777/StatusDePresenca)**:
   painel que mostra quem está presente, em viagem, em reunião ou de férias,
   com aniversariantes e feriados do mês. HTML, CSS e JavaScript.
+  [Ver demonstração](https://paulomec777.github.io/StatusDePresenca/).
+- **[App RH](https://github.com/paulomec777/app-rh-senai)**: aplicação de
+  Recursos Humanos do curso do Senai, com vagas, candidatos, funcionários e
+  dependentes. Java, Spring Boot, Thymeleaf e Bootstrap.
+  [Ver demonstração](https://app-rh-senai-demo.onrender.com)
+  (usuário `demo`, senha `demo`).
 - **Só Bizu** (em desenvolvimento): sistema de gestão para cantina, com
   controle de vendas e reservas, login e perfil de administrador.
   JavaScript e Supabase.
@@ -32,6 +39,9 @@ possa aprender e evoluir.
   configuração de ambientes e suporte a usuários.
 - **Técnico de TI**, Exército Brasileiro (ago. 2021 – ago. 2022): suporte
   técnico, instalação e manutenção de software e programação em Java e C.
+
+As demonstrações usam dados fictícios e hospedagem gratuita: a primeira
+visita pode levar cerca de um minuto para abrir.
 
 ## Tecnologias
 
